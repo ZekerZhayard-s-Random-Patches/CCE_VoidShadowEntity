@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "id": "cce_voidshadowentity",
+    "version": "${version}",
+    "name": "CCE_VoidShadowEntity",
+    "description": "",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "mixins": [
+        "cce_voidshadowentity.mixins.json"
+    ]
+}
